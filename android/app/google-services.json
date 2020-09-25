@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555886493004",
+    "firebase_url": "https://freshthinks-practice.firebaseio.com",
+    "project_id": "freshthinks-practice",
+    "storage_bucket": "freshthinks-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555886493004:android:d88e23420d6aa4f3b1e3e9",
+        "android_client_info": {
+          "package_name": "com.example.fresh_thinks_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555886493004-kv3qs1bjgrsfbdfc2qhpk5k72c0i8u6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYZfhwE7-5sW0ooofneGpJrVXyNHybl4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555886493004-kv3qs1bjgrsfbdfc2qhpk5k72c0i8u6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
